@@ -3,15 +3,15 @@
   "description": "",
   "artist": "Munimunimomoko",
   "author": "Munimunimomoko",
-  "cover": "https://i.ibb.co/fdjGmBx/Cover.png",
+  "cover": "",
   "chapters": {
     "": {
       "title": "",
       "volume": "",
       "groups": {
-        "Fattyloveranon": "/proxy/api/imgur/ramKVVX/"
+        "Fattyloveranon": "/proxy/api/imgur/chapter/ramKVVX/"
       },
-      "last_updated": ""
+      "last_updated": "1624851078"
     }
   }
 }
