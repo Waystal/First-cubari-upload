@@ -1,17 +1,17 @@
 {
-  "title":"Puuchi-chan's growing appetie",
-  "description":"Fuck redrawing",
-  "artist":"Munimunimomoko",
-  "author":"Munimunimomoko",
-  "cover":"https://i.imgur.com/vvLZuE3.png",
-  "chapters":{
-    "":{
-      "title":"",
-      "volume":"0",
-      "groups":{
-        "Fattyloveranon":"/proxy/api/imgur/chapter/ramKVVX/"
-      },
-      "last_updated":""
-    }
-  }
+   "title":"Puuchi-chan's growing appetie",
+   "description":"Fuck redrawing",
+   "artist":"Munimunimomoko",
+   "author":"Munimunimomoko",
+   "cover":"https://i.imgur.com/vvLZuE3.png",
+   "chapters":{
+      "":{
+         "title":"",
+         "volume":"0",
+         "groups":{
+            "Fattyloveranon":"/proxy/api/imgur/chapter/ramKVVX/"
+         },
+         "last_updated":""
+      }
+   }
 }
