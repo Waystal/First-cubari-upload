@@ -1,15 +1,13 @@
 {
   "title": "Puuchi-chan's growing appetie",
   "artist": "munimunimomoko",
-  "cover": "https://drive.google.com/uc?id=175F5UkbpbgJI0JegHxJ7BKjATCRULAqO",
+  "cover": "https://i.ibb.co/fdjGmBx/Cover.png",
   "chapters": {
     "4": {
       "title": "",
       "volume": "",
       "groups": {
-        "Fattyloveranon": [
-        "https://drive.google.com/uc?id=19H7TMNAYcTkvf9kYTuKRywT0hR25Krv3",
-        "https://drive.google.com/uc?id=1ZyKf85t-_zkxpzjcygfbWdyEVHkqIf1y"
+        "Fattyloveranon": "/proxy/api/imgur/chapter/ramKVVX"
       },
       "last_updated": "1551484800"
     },
