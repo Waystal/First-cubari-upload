@@ -1,17 +1,17 @@
 {
-  "title": "Puuchi-chan's growing appetie",
-  "description": "",
-  "artist": "Munimunimomoko",
-  "author": "Munimunimomoko",
-  "cover": "",
-  "chapters": {
-    "": {
-      "title": "",
-      "volume": "1",
-      "groups": {
-        "Fattyloveranon": "/proxy/api/imgur/chapter/ramKVVX/"
+  "title":"Puuchi-chan's growing appetie",
+  "description":"",
+  "artist":"Munimunimomoko",
+  "author":"Munimunimomoko",
+  "cover":"https://i.ibb.co/fdjGmBx/Cover.png",
+  "chapters":{
+    "":{
+      "title":"",
+      "volume":"",
+      "groups":{
+        "Fattyloveranon":"/proxy/api/imgur/chapter/ramKVVX/"
       },
-      "last_updated": "1624851078"
+      "last_updated":"1616368746"
     }
   }
 }
